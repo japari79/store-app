@@ -1,0 +1,9 @@
+.btn-card-widget{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bi{
+    font-size: 25px;
+}

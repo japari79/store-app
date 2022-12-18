@@ -1,0 +1,24 @@
+.navBar {
+    display: flex;
+    background-color: #333333;
+    border-radius: 10px;
+    width: 90%;
+    margin-top: 10px;
+}
+
+.navBar__links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    list-style: none;
+}
+
+.navBar__links li a {
+    color: #E5E8E8;
+    text-decoration: none;
+}
+
+.navBar__links li a:hover {
+    color: #eba80e;
+}
