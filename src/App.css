@@ -2,15 +2,6 @@
 
 .App {
   text-align: center;
+  color: #574f4f;
 }
 
-.App-header {
-  background-color: #111111;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  font-size: calc(4px + 2vmin);
-  color: white;
-}
