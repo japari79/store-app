@@ -12,8 +12,10 @@ function NavBar() {
                     <NavItem nav="/category/laptop">Portátiles</NavItem>
                     <NavItem nav="/category/tablet">Tablets</NavItem>
                     <NavItem nav="/category/tv">Televisores</NavItem>
+                    <NavItem nav="/cart">
+                        <CardWidget/>
+                    </NavItem>
                 </ul>
-                <CardWidget/>
             </nav>
         </header>
     );

@@ -1,0 +1,32 @@
+.cart-title {
+    color: #574f4f;
+    font-size: 24px;
+}
+
+.cart-table {
+    border: solid 1px #333333;  
+    width: 80%;
+    margin: 15px auto;
+    text-align: center;
+}
+
+.cart-head {
+    background-color: #686464;
+    color: #E5E8E8
+}
+
+.cart-row {
+line-height: 56px;
+}
+
+.cart-row-detail {
+color: #787878;
+text-align: center;
+line-height: 1.5em;
+width: 100%;
+}
+
+.msg-alert {
+    color: #c22929;
+    font-size: 24px;
+}

@@ -6,3 +6,8 @@
     align-items: center;
     align-content: center;
 } 
+
+.msg-success {
+    color: #05a305;
+    font-weight: bold;    
+}
